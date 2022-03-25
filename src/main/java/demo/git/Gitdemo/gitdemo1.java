@@ -7,6 +7,8 @@ public class gitdemo1 {
 
 		/*  README.md  ---> documented  
 		 * 		 
+		 ignore files 
+		 git status
 		 
 		 
 		 
